@@ -1,0 +1,38 @@
+newmtl 0
+map_Kd ./JACKAL_1024.tga
+Ka 1 1 1
+Kd 0.878431 0.878431 0.878431
+Ks 0.733333 0.972549 0.984314
+Tr 1
+d 1
+Ns 33.1736
+illum 2
+
+newmtl 1
+map_Kd ./JACKAL_1024.tga
+illum 2
+
+newmtl 2
+map_Kd ./JACKAL_1024.tga
+Ka 1 1 1
+Kd 0.878431 0.878431 0.878431
+Ks 0.733333 0.972549 0.984314
+Tr 1
+d 1
+Ns 33.1736
+illum 2
+
+newmtl 3
+map_Kd ./JACKAL_DETAILS_1024.tga
+Ka 1 1 1
+Kd 0.878431 0.878431 0.878431
+Ks 0.733333 0.972549 0.984314
+Tr 1
+d 1
+Ns 33.1736
+illum 2
+
+newmtl 4
+map_Kd ./JACKAL_1024.tga
+illum 2
+
